@@ -1,0 +1,21 @@
+{
+    "name": "ozip/ispconfig-sdk",
+    "description": "ISPConfig Remote Api Sdk",
+    "require": {
+        "php": "5.3"
+    },
+    "require-dev": {
+        "php": "5.3"
+    },
+    "authors": [
+        {
+            "name": "Martin Adiyono",
+            "email": "martin@adiyono.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Ozip\\ISPConfigSDK": "src/"
+        }
+    }
+}
