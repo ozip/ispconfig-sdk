@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Ozip\\ISPConfigSDK": "src/"
+            "Ozip\\ISPConfigSDK\\": "src/"
         }
     }
 }
